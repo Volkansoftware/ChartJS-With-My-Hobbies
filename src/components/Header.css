@@ -1,0 +1,15 @@
+.container{
+    height: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(81,81,159,1) 35%, rgba(0,212,255,1) 100%);
+margin-bottom: 15px;
+}
+.title{
+    color: beige;
+    font-size: 25px;
+    font-weight: bold;
+}
